@@ -1,0 +1,6 @@
+archive        : dxf-to-qgis.zip
+algorithm      : WinZip AES-256 (AE-2), ZIP deflate
+sha256(archive): bad25f85063104e5c4c25322426684ad9c3b0cbd3908a3470e63cc9caf37f0df
+files          : 7
+unpacked bytes : 71786
+password       : NOT stored here. Sent separately.
